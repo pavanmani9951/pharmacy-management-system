@@ -1,0 +1,80 @@
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\appsettings.Development.json
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\appsettings.json
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.exe
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.deps.json
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.runtimeconfig.json
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.runtimeconfig.dev.json
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\ref\Authorization Microservice.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.pdb
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.csproj.AssemblyReference.cache
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.AssemblyInfoInputs.cache
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.AssemblyInfo.cs
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.csproj.CoreCompileInputs.cache
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.MvcApplicationPartsAssemblyInfo.cs
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.MvcApplicationPartsAssemblyInfo.cache
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\staticwebassets\Authorization Microservice.StaticWebAssets.Manifest.cache
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\staticwebassets\Authorization Microservice.StaticWebAssets.xml
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\scopedcss\bundle\Authorization Microservice.styles.css
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.RazorTargetAssemblyInfo.cache
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.csproj.CopyComplete
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\ref\Authorization Microservice.dll
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.pdb
+F:\CDE-MFPE\PharmacyMedicineSupplyManagement\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.genruntimeconfig.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.exe
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.deps.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.runtimeconfig.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.runtimeconfig.dev.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\ref\Authorization Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Authorization Microservice.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.csproj.AssemblyReference.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.AssemblyInfoInputs.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.AssemblyInfo.cs
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.csproj.CoreCompileInputs.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\staticwebassets\Authorization Microservice.StaticWebAssets.Manifest.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\staticwebassets\Authorization Microservice.StaticWebAssets.xml
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\scopedcss\bundle\Authorization Microservice.styles.css
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.csproj.CopyComplete
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\ref\Authorization Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\Authorization Microservice\Authorization Microservice\obj\Debug\net5.0\Authorization Microservice.genruntimeconfig.cache

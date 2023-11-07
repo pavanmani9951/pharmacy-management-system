@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MedicineStockMicroservice20220901142420" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\meani\\OneDrive\\Desktop\\COGNIZANT\\cde-mfpe\\MedicineStock\ Microservice\\MedicineStock\ Microservice\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="MedicineStock_Microservice.Data.MedicineStockDataContext" description="" value="Data Source=tcp:medicinestockmicroservicedbserver.database.windows.net,1433;Initial Catalog=MedicineStock Microservice_db;User Id=test@medicinestockmicroservicedbserver;Password=Pharmacy@1" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\meani\\OneDrive\\Desktop\\COGNIZANT\\cde-mfpe\\MedicineStock\ Microservice\\MedicineStock\ Microservice\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\MedicineStock_Microservice\.Data\.MedicineStockDataContext\.sql$" />
+  </parameter>
+</parameters>

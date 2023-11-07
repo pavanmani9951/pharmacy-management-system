@@ -1,0 +1,49 @@
+.HomePage {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    background-image: url('../Assets/doc3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.login {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image: url('../Assets/doc4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1.dashboard{
+    color: green;
+    justify-content: center;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 3px 1px green;
+
+}
+h1.title
+{
+    color: #2E0249;
+    justify-content: center;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 3px 1px #2E0249;
+
+}
+.btn1 {
+    padding-left: 10px;
+    padding-right: 50px;
+}
+
+.navbar-brand {
+    /* padding-top: var(--bs-navbar-brand-padding-y); */
+    /* padding-bottom: var(--bs-navbar-brand-padding-y); */
+    /* margin-right: var(--bs-navbar-brand-margin-end); */
+    font-size: var(--bs-navbar-brand-font-size);
+    color: var(--bs-navbar-brand-color);
+    text-decoration: none;
+    white-space: nowrap;
+}

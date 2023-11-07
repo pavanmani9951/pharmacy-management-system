@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6Lpd8PGjLUmewN43+/838wAAAAACAAAAAAAQZgAAAAEAACAAAACndqdCuGsTdE3Fk6aJPnRme8gyT7cPB7L+JTURYBe/GAAAAAAOgAAAAAIAACAAAABCgboJqnQFFX8zTYvkpX0ykm21L3W3fiJF907L++i4Z4AAAAAw6kc2cOZS0k6Q2/cwsZIJFEai7tHXl1jtcNyowG4GBptxw/yDsk8r17WucyVXlVEtT/t12Eako9R7YSZcZ/H0HyEH8qNUoNxwEJYuuUYan3J1qK23jtE6wy6cvAhBgxFdHBXUBI/xiRR59M/OVoePiwUr8J5B74WETVn2NBAdfUAAAABGjhRf4sRwiuVk2P0gmPVG2qY7Vo1wvTyFzU3/nJCyw+H5YurVE40VbmJ9Eu2EgiC2urgiBszpADTTMH6PQb7d</EncryptedPassword>
+    <History>True|2022-09-01T09:05:24.6679275Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="MedicineStock_Microservice.Data.MedicineStockDataContext">
+      <Value>Data Source=tcp:medicinestockmicroservicedbserver.database.windows.net,1433%3bInitial Catalog=MedicineStock Microservice_db%3bUser Id=test%40medicinestockmicroservicedbserver%3bPassword=Pharmacy%401</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

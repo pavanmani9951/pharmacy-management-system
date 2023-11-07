@@ -1,0 +1,63 @@
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\MedicineStock Microservice.exe
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\MedicineStock Microservice.deps.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\MedicineStock Microservice.runtimeconfig.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\MedicineStock Microservice.runtimeconfig.dev.json
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\MedicineStock Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\MedicineStock Microservice.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.csproj.AssemblyReference.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.AssemblyInfoInputs.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.AssemblyInfo.cs
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.csproj.CoreCompileInputs.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\staticwebassets\MedicineStock Microservice.StaticWebAssets.Manifest.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\scopedcss\bundle\MedicineStock Microservice.styles.css
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.csproj.CopyComplete
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\ref\MedicineStock Microservice.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.pdb
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\MedicineStock Microservice.genruntimeconfig.cache
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\bin\Debug\net5.0\SFERA.Helpers.WEB.CORS.dll
+C:\Users\meani\OneDrive\Desktop\COGNIZANT\cde-mfpe\MedicineStock Microservice\MedicineStock Microservice\obj\Debug\net5.0\refint\MedicineStock Microservice.dll
